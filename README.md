@@ -4,9 +4,9 @@
 
 ## I'm a Data scientist, Python Developer and so much more !!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning life and training some machine learning models while at it 🤣
-- 🥅 2022 Goals: Learn more about Data!!!
+
+- 🌱 I’m currently learning life and training machine learning models while at it 🤣
+- 🥅 2022 Goals: continue doing what makes me happy!!!
 - ⚡ when not working : I'm travelling, playing some baskeball / call of duty
 - 🏋️ I wonder if my gym visits reflect on my physique .
 
