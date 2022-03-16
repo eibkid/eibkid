@@ -1,4 +1,4 @@
-# Hi there, Welcome to my code stash 👋 
+# Hi there, Welcome to my codes stash 👋 
 
 
 
