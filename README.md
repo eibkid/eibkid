@@ -8,10 +8,11 @@
 - 🌱 I’m currently learning life and training machine learning models while at it 🤣
 - 🥅 2022 Goals: continue doing what makes me happy!!!
 - ⚡ when not working : I'm travelling, playing some baskeball / call of duty
-- 🏋️ I wonder if my gym visits reflect on my physique .
+- 🏋️ 
+I wonder if my gym visits reflect on my physique .
 
 
-### sometimes I'm on :
+### sometimes I'm hanging at:
 
 
 [![website](./img/twitter-dark.svg)](https://twitter.com/deus_do_#gh-dark-mode-only)
