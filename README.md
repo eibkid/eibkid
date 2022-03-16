@@ -12,12 +12,6 @@
 I wonder if my gym visits reflect on my physique .
 
 
-### sometimes I'm hanging at:
-
-
-[![website](./img/twitter-dark.svg)](https://twitter.com/deus_do_#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
